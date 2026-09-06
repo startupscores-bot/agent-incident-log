@@ -2,6 +2,8 @@
 
 A public reference log of real incidents involving AI agents and the tools they use — both harm an agent caused directly, and failures in the MCP servers, gateways and packages that agent tool use depends on.
 
+[![Helio on StartupScores](https://startupscores.com/badge/helio.svg?style=shield&v=combo&theme=dark)](https://startupscores.com/open-source/helio)
+
 <!-- distribution:start -->
 Of 12 entries, action governance would likely have prevented 5, partially 4, no 3, unclear 0.
 <!-- distribution:end -->
